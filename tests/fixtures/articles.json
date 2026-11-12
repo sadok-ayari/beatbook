@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Green bond framework delayed as ministry reviews guarantees",
+    "outlet": "National Daily",
+    "author": "By Aisha Karim",
+    "url": "https://example.org/b1",
+    "published": "2026-11-11T08:00:00+00:00",
+    "summary": "The green bond framework has been delayed, with officials warning of a shortfall and a dispute over concessional terms."
+  },
+  {
+    "title": "Climate finance deal reached with two development banks",
+    "outlet": "Finance Wire",
+    "author": "AISHA KARIM",
+    "url": "https://example.org/b2",
+    "published": "2026-11-10T09:00:00+00:00",
+    "summary": "A climate finance agreement with two development banks was welcomed as a boost for adaptation funding."
+  },
+  {
+    "title": "Solar tender opens for 300 megawatts",
+    "outlet": "Energy Report",
+    "author": "Aisha Karim, Senior Correspondent",
+    "url": "https://example.org/b3",
+    "published": "2026-11-09T07:00:00+00:00",
+    "summary": "A solar tender for 300 megawatts opened, part of the energy transition programme, with grid upgrades promised."
+  },
+  {
+    "title": "Mangrove restoration stalls after funding shortfall",
+    "outlet": "Coastal Post",
+    "author": "By Omar Haddad <omar@example.org>",
+    "url": "https://example.org/b4",
+    "published": "2026-11-08T11:00:00+00:00",
+    "summary": "Mangrove restoration has stalled, with conservation groups warning of a shortfall and unclear procurement."
+  },
+  {
+    "title": "COP31 preview: what the region wants",
+    "outlet": "Global Post",
+    "author": "",
+    "url": "https://example.org/b5",
+    "published": "2026-11-07T12:00:00+00:00",
+    "summary": "A preview of COP31 positions, from adaptation finance to loss and damage."
+  },
+  {
+    "title": "Water strategy approved by cabinet",
+    "outlet": "National Daily",
+    "author": "By Leila Mansour and Omar Haddad",
+    "url": "https://example.org/b6",
+    "published": "2026-11-06T15:00:00+00:00",
+    "summary": "The cabinet approved a water strategy, a milestone welcomed by development partners."
+  }
+]

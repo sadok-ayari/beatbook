@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {"id": "climate-finance", "name": "climate finance", "keywords": ["climate finance", "green bond", "concessional", "adaptation fund", "loss and damage"]},
+    {"id": "energy", "name": "energy transition", "keywords": ["renewable", "solar", "wind", "hydrogen", "grid", "energy transition"]},
+    {"id": "policy", "name": "climate policy", "keywords": ["cop31", "ndc", "ministry", "parliament", "regulation", "policy"]},
+    {"id": "nature", "name": "nature and water", "keywords": ["mangrove", "biodiversity", "water", "drought", "desertification", "nature-based"]},
+    {"id": "development", "name": "development finance", "keywords": ["world bank", "imf", "development bank", "debt", "grant", "blended finance"]}
+  ]
+}
